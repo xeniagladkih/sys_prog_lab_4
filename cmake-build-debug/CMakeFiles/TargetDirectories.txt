@@ -1,0 +1,3 @@
+/Users/kseniya_gladkih/CLionProjects/lab_4_SysProg/cmake-build-debug/CMakeFiles/lab_4_SysProg.dir
+/Users/kseniya_gladkih/CLionProjects/lab_4_SysProg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kseniya_gladkih/CLionProjects/lab_4_SysProg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
